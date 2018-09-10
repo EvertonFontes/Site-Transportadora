@@ -1,0 +1,39 @@
+/*Css de Contato Formulario*/
+#cont{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+#cont h1{
+	color:#c0c0c0;
+	margin-bottom: 30px;
+}
+#cont h2{
+	color:#c0c0c0;
+}
+#cont p{
+	color: #000;
+}
+#cont a{
+	text-decoration: none;
+	color: #000;
+}
+#cont a:hover{
+	color: #32CD32;
+}
+.iconwhats{
+	width: 35px;
+	height: 35px;
+	padding-top: 6px;
+	margin-right: 10px;
+	background-color: #32CD32;
+	color: #fff;
+}
+.iconwhats:hover{
+	width: 35px;
+	height: 35px;
+	padding-top: 6px;
+	margin-right: 10px;
+	background-color: #98FB98;
+	color: #fff;
+}
+
